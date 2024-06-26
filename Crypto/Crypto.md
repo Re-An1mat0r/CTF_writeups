@@ -85,7 +85,39 @@ CAPTURECAPTURE CAPTURECAPTURECAPTURECAPTURECAPTURE THECAPTURETHE CAPTURECAPTURET
 
 Флаг: B0NU${M0RZ9NKA}
 
+Билибизяка
 
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/88a11973-45f6-4009-b4c3-45751a13cbf9)
+
+Идём в Кибершеф
+
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/86bdf0be-c3c7-40e4-be08-73bb5f5ddb02)
+
+From Binary
+
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/e838800c-6b87-4cc3-a76a-eed766bdc4bc)
+
+Дальше я спросил Чат гпт
+
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/c52eeb3c-3922-495f-b7bf-93971e02d126)
+
+Так, число с плавающей точкой, значит нам нужен рецепт From float
+
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/2ccfef91-79a5-4e58-894c-6da798fa0f2f)
+
+Получили какую то фигню, применим Magic
+
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/3e2e25ab-da78-4745-a61c-227f77b3ccbc)
+
+И Кибершеф нам даёт ещё пару рецептов, примеяем их и получаем ссылку
+
+https://steamcommunity.com/id/oqnxyr/
+
+Переходим и в аккаунте видим флаг
+
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/867fb197-cc89-4759-8221-c79eab9ce528)
+
+Флаг: B0NU${S00M3t33XXtt}
 
 
 
