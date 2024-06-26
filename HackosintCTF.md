@@ -3,8 +3,8 @@ CTF_writeups
 
 Hackosint2024_bonus_tasks
 
-КРИПТОГРАФИЯ
-
+Криптография
+------------
 Тык-Тык
 
 ![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/149f884a-735a-4552-aacc-7e3c1efba952)
@@ -44,7 +44,7 @@ https://merri.cx/enigmator/cipher/grille.html
 ![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/4374db41-ca68-48fb-a587-6b20755dfd16)
 
 Флаг: B0NU${W0W_WH4T_4_GR1D}
---------------------------------------------
+
 SomDef
 
 ![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/2e0298c3-520f-44ef-8d67-1c28745e464d)
