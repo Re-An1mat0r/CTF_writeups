@@ -6,4 +6,4 @@
 
 ![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/9bc0339f-d295-401a-895f-a073ef7ed510)
 
-Флаг:Лексикон
+Флаг: Лексикон
