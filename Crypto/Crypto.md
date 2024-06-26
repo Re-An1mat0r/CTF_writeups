@@ -123,6 +123,53 @@ https://steamcommunity.com/id/oqnxyr/
 
 Флаг: B0NU${S00M3t33XXtt}
 
+IDK
+----
+
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/1e7f24fc-f0ff-4705-a71b-c815183135d7)
+
+Открываем файл в hex редакторе
+
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/1b3795cb-d33b-4d39-af1c-570703b9dc56)
+
+Видим, что это картика jpeg, меняем расширение файла на jpg
+
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/91a9a658-d633-4f87-b625-2496a52d2e26)
+
+Далее загружаем картинку в Aperisolve https://aperisolve.com/ и смотрим вывод
+
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/0f98b48a-6426-4916-9717-8ed35f8543a8)
+
+Внутри картинки спрятан файл, скачиваем и смотрим
+
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/6a392a18-2bca-458f-927a-111b42a31a90)
+
+Тут нам поможет подсказка к заданию, гуглим её
+
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/aa62d488-497b-4403-a108-1f247dbdc034)
+
+Так у нас тут XOR, но у нас base64 текст. Заходим в Кибершефа и преобразуем base64 в байты убрав "ThereIsNoKey" и сохраняем файл
+
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/41fd5e6c-edfe-463f-a340-4370aab71e84)
+
+Далее запускаем xortool и выясняем длину ключа
+
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/93e603c1-d93a-4748-898c-852db4b1b001)
+
+С наибольшей вероятностью у нас в ключе 14 символов
+
+Затем используем https://www.dcode.fr/ и инструмент XOR указав ему шифрованный текст в байтах и длину ключаа
+
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/1b580f48-0664-4a90-a112-ddfa9a6ea2bf)
+
+И получаем флаг
+
+Флаг: B0NU${x0R_cRyP70@n4L1sy$_KP4}
+
+
+
+
+
 
 
 
