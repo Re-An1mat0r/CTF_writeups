@@ -113,7 +113,7 @@ From Binary
 
 ![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/3e2e25ab-da78-4745-a61c-227f77b3ccbc)
 
-И Кибершеф нам даёт ещё пару рецептов, примеяем их и получаем ссылку
+И Кибершеф нам даёт ещё пару рецептов, применяем их и получаем ссылку
 
 https://steamcommunity.com/id/oqnxyr/
 
