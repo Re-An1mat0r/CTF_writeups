@@ -7,6 +7,7 @@ Hackosint2024_bonus_tasks
 Криптография
 ------------
 Тык-Тык
+--------
 
 ![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/149f884a-735a-4552-aacc-7e3c1efba952)
 
@@ -47,6 +48,7 @@ https://merri.cx/enigmator/cipher/grille.html
 Флаг: B0NU${W0W_WH4T_4_GR1D}
 
 SomDef
+------
 
 ![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/2e0298c3-520f-44ef-8d67-1c28745e464d)
 
@@ -87,6 +89,7 @@ CAPTURECAPTURE CAPTURECAPTURECAPTURECAPTURECAPTURE THECAPTURETHE CAPTURECAPTURET
 Флаг: B0NU${M0RZ9NKA}
 
 Билибизяка
+----------
 
 ![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/88a11973-45f6-4009-b4c3-45751a13cbf9)
 
