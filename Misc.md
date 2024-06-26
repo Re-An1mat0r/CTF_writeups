@@ -2,6 +2,7 @@
 ------
 
 Не вижу
+--------
 
 ![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/897bf936-bb0a-4fb2-9429-b635ac0ffe57)
 
