@@ -14,7 +14,7 @@
 
 ![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/82449681-f6cb-4723-93c1-cfb4eaaa0bf4)
 
-Флаг: B0NU${St3R30Gr4M}
+Флаг: B0NU${St3Re0Gr4M}
 
 Discard
 --------
