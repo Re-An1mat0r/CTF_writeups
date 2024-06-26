@@ -3,7 +3,7 @@ CTF_writeups
 
 Hackosint2024_bonus_tasks
 
-Криптография
+КРИПТОГРАФИЯ
 
 Тык-Тык
 
