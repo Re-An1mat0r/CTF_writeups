@@ -132,7 +132,7 @@ IDK
 
 ![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/1b3795cb-d33b-4d39-af1c-570703b9dc56)
 
-Видим, что это картика jpeg, меняем расширение файла на jpg
+Видим, что это картинка jpeg, меняем расширение файла на jpg
 
 ![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/91a9a658-d633-4f87-b625-2496a52d2e26)
 
