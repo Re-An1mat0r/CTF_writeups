@@ -43,9 +43,7 @@ https://merri.cx/enigmator/cipher/grille.html
 
 Подбираем последний ряд букв и получаем флаг
 
-![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/4374db41-ca68-48fb-a587-6b20755dfd16)
-
-Флаг: B0NU${W0W_WH4T_4_GR1D}
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/354d61b7-fadb-4045-9930-52dce5f1afef)
 
 SomDef
 ------
@@ -84,9 +82,7 @@ CAPTURECAPTURE CAPTURECAPTURECAPTURECAPTURECAPTURE THECAPTURETHE CAPTURECAPTURET
 
 Идём в Кибершефа и получаем флаг
 
-![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/85a3f3c0-3625-4d73-9aa1-4c5675b89b84)
-
-Флаг: B0NU${M0RZ9NKA}
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/70f6f8b2-6882-47fb-99e0-e855597ac3c1)
 
 Билибизяка
 ----------
@@ -119,9 +115,7 @@ https://steamcommunity.com/id/oqnxyr/
 
 Переходим и в аккаунте видим флаг
 
-![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/867fb197-cc89-4759-8221-c79eab9ce528)
-
-Флаг: B0NU${S00M3t33XXtt}
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/c9e89b1a-e0b8-40f1-9b27-45614c7a907d)
 
 IDK
 ----
@@ -160,13 +154,9 @@ IDK
 
 Затем используем https://www.dcode.fr/ и инструмент XOR указав ему шифрованный текст в байтах и длину ключа
 
-![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/1b580f48-0664-4a90-a112-ddfa9a6ea2bf)
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/112d8a51-266f-4aba-bd6b-3e8c5eab0238)
 
 И получаем флаг
-
-Флаг: B0NU${x0R_cRyP70@n4L1sy$_KP4}
-
-
 
 
 
