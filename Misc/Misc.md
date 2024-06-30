@@ -10,11 +10,7 @@
 
 ![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/06d68e9b-57b6-46fc-97f2-62238cf3f4ea)
 
-Подбираем смещение и получаем флаг:
-
-![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/82449681-f6cb-4723-93c1-cfb4eaaa0bf4)
-
-Флаг: B0NU${St3Re0Gr4M}
+Подбираем смещение и получаем флаг
 
 Discard
 --------
@@ -73,9 +69,8 @@ Discard
 
 Между строк есть необычные пробелы и в тексте часто втречается слово Snow, пробуем утилиту stegsnow и получаем флаг
 
-![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/592d04c1-8edb-49a9-9e7b-06bb0b2c15be)
+![image](https://github.com/Re-An1mat0r/CTF_writeups/assets/127856250/2a7a1467-ca31-4bec-a56c-72fca00b102e)
 
-Флаг: B0NU${Sn0WyD1sK09DF14G}
 
 
 
